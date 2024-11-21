@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8f51c063-a313-44c0-8a48-24b25db01279" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/2021/12/31/后端基本逻辑流程/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2022/08/09/node知识点总结/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/08/03/Redis应用场景/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2023/10/25/ubuntu安装mysql/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2024/08/31/原型链和原型/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2021/12/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2021/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2022/08/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2022/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2023/08/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2023/10/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2023/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2024/08/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/2024/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/archives/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/Java/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/categories/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/var.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/404.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/avatar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/friend_404.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/search/algolia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/search/local-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/tw_cn.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/js/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/mysql/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/nodejs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tags/service-java/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "peternie"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:peternie/peternie.github.io.git",
+    "accountId": "8a53a2b2-843d-4731-a803-53441fdd9be6"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2pBEpgt23d5m0ImUhusgKn2zKUe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="8f51c063-a313-44c0-8a48-24b25db01279" name="更改" comment="" />
+      <created>1732231252351</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732231252351</updated>
+      <workItem from="1732231253854" duration="26000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
